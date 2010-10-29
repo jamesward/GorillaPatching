@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<s:Application xmlns:fx="http://ns.adobe.com/mxml/2009" xmlns:s="library://ns.adobe.com/flex/spark">
+
+  <fx:Script>
+    import mx.utils.ObjectUtil;
+    import ru.etcs.utils.getDefinitionNames;
+
+    private var replacementBytes:ByteArray;
+
+
+    private function handleProgress(event:ProgressEvent):void
+    {
+      if (event.bytesLoaded >= event.bytesTotal)
+      {
+        trace('all mylib bytes have been loaded');
+        var classes:Array = getDefinitionNames((event.currentTarget as LoaderInfo), true);
+        trace('mylib contains: ' + classes.toString());
+
+        (event.currentTarget as LoaderInfo).removeEventListener(ProgressEvent.PROGRESS, handleProgress);
+        (event.currentTarget as LoaderInfo).loader.loadBytes(replacementBytes);
+      }
+    }
+
+    private function handleInit(event:Event):void
+    {
+      trace('init');
+
+      var classes:Array = getDefinitionNames((event.currentTarget as LoaderInfo), true);
+      trace('classes just loaded are: ' + classes.toString());
+    }
+
+    private function handleComplete(event:Event):void
+    {
+      trace("complete");
+      var fc:Class = (event.currentTarget as LoaderInfo).applicationDomain.getDefinition("Foo") as Class;
+      var foo:* = new fc();
+      var s:String = foo.getBar();
+      trace("foo.getBar() = " + s);
+      if (s == "foo")
+      {
+        trace("you've been gorilla patched!!");
+      }
+      else
+      {
+        trace("gorilla patching unsuccessful!");
+      }
+    }
+  </fx:Script>
+
+  <s:applicationComplete>
+      // first load the myotherlib but just keeps the bytes around for later
+      trace('loading the bytes of a test replacement swf first through URLLoader');
+      var moll:URLLoader = new URLLoader();
+      moll.dataFormat = URLLoaderDataFormat.BINARY;
+      moll.addEventListener(Event.COMPLETE, function(event:Event):void {
+        replacementBytes = (event.currentTarget as URLLoader).data as ByteArray;
+
+        trace('now loading the original swf with a Loader');
+        // now load mylib
+        var mylibReq:URLRequest = new URLRequest("mylib.swf");
+        var mll:Loader = new Loader();
+        mll.contentLoaderInfo.addEventListener(ProgressEvent.PROGRESS, handleProgress);
+
+        mll.contentLoaderInfo.addEventListener(Event.INIT, handleInit);
+
+        mll.contentLoaderInfo.addEventListener(Event.COMPLETE, handleComplete);
+
+        mll.load(mylibReq);
+      });
+
+      trace('loading myotherlib.swf');
+      moll.load(new URLRequest("myotherlib.swf"));
+  </s:applicationComplete>
+
+</s:Application>
