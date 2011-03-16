@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<s:Application xmlns:fx="http://ns.adobe.com/mxml/2009" xmlns:s="library://ns.adobe.com/flex/spark">
+
+  <s:applicationComplete>
+
+    var loader:Loader = new Loader();
+    var loaderContext:LoaderContext = new LoaderContext(false, ApplicationDomain.currentDomain, null);
+    loader.contentLoaderInfo.addEventListener(Event.COMPLETE, function(event:Event):void {
+      trace((event.currentTarget as LoaderInfo).bytesLoaded);
+      var clazz:Class = ApplicationDomain.currentDomain.getDefinition("blah.Foo") as Class;
+      var instance:Object = new clazz();
+      trace(instance.getPrivateBar());
+    });
+    loader.load(new URLRequest("MyGeneratedClasses.swf"), loaderContext);
+
+  </s:applicationComplete>
+
+
+</s:Application>

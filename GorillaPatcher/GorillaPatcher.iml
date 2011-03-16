@@ -2,8 +2,8 @@
 <module type="Flex" version="4">
   <component name="Flex.Build.Configuration">
     <option name="DO_BUILD" value="true" />
-    <option name="MAIN_CLASS" value="Testapp" />
-    <option name="OUTPUT_FILE_NAME" value="Testapp.swf" />
+    <option name="MAIN_CLASS" value="GorillaPatcher" />
+    <option name="OUTPUT_FILE_NAME" value="GorillaPatcher.swf" />
     <option name="TARGET_PLAYER_VERSION" value="10.0.0" />
     <option name="ADDITIONAL_COMPILER_OPTIONS" value="-static-link-runtime-shared-libraries" />
     <option name="VERSION" value="3" />
@@ -15,15 +15,6 @@
     </content>
     <orderEntry type="jdk" jdkName="flex_sdk_4.1.0.16076 (player 10)" jdkType="Flex SDK Type" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/as3commons-reflect-1.3.4.swc!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
@@ -45,7 +36,16 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../as3-commons/as3-commons-bytecode/target/as3commons-bytecode-0.9.8-SNAPSHOT.swc!/" />
+          <root url="jar://$MODULE_DIR$/as3commons-reflect-1.3.4.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/as3commons-bytecode-1.0-RC3.swc!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

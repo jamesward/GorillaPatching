@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GorillaPatcher/GorillaPatcher.iml" filepath="$PROJECT_DIR$/GorillaPatcher/GorillaPatcher.iml" />
       <module fileurl="file://$PROJECT_DIR$/mylib/mylib.iml" filepath="$PROJECT_DIR$/mylib/mylib.iml" />
       <module fileurl="file://$PROJECT_DIR$/testapp/testapp.iml" filepath="$PROJECT_DIR$/testapp/testapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testapp2/testapp2.iml" filepath="$PROJECT_DIR$/testapp2/testapp2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testapp3/testapp3.iml" filepath="$PROJECT_DIR$/testapp3/testapp3.iml" />
     </modules>
   </component>
 </project>

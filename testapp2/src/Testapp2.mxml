@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<s:Application xmlns:fx="http://ns.adobe.com/mxml/2009"
+               xmlns:s="library://ns.adobe.com/flex/spark">
+
+  <fx:Metadata>
+    [Patcher(type="RevealPrivatesPatcher", classTagName="blah/Foo", propertyOrMethodName="getPrivateBar")]
+  </fx:Metadata>
+
+  <fx:Script>
+    import blah.Foo;
+  </fx:Script>
+
+  <s:applicationComplete>
+    trace("applicationComplete");
+
+    try
+    {
+      var clazz:Class = ApplicationDomain.currentDomain.getDefinition("blah.Foo") as Class;
+      var instance:Object = new clazz();
+      trace(instance.getPrivateBar());
+    }
+    catch (error:Error)
+    {
+      trace(error);
+    }
+    
+    try
+    {
+      var foo:Foo = new Foo();
+      var s:String = foo['getPrivateBar']();
+      trace("foo.getPrivateBar() = " + s);
+    }
+    catch (error:Error)
+    {
+      trace(error);
+    }
+  </s:applicationComplete>
+
+  <s:Button label="dump modified swf">
+    <s:click>
+      trace('f');
+    </s:click>
+  </s:Button>
+
+</s:Application>

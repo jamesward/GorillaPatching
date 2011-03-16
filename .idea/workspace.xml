@@ -60,21 +60,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Testapp.mxml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testapp/src/Testapp.mxml">
+      <file leaf-file-name="RevealPrivatesPatcher.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GorillaPatcher/src/RevealPrivatesPatcher.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="89" column="24" selection-start="3518" selection-end="3518" vertical-scroll-proportion="0.8858859">
+            <state line="62" column="59" selection-start="2260" selection-end="2260" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IPatcher.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GorillaPatcher/src/IPatcher.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="35" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Testapp2.mxml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testapp2/src/Testapp2.mxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="16" selection-start="985" selection-end="985" vertical-scroll-proportion="0.86153847">
               <folding>
-                <marker date="1296866701000" expanded="false" signature="149:1466" placeholder="..." />
-                <marker date="1296866701000" expanded="true" signature="1534:3192" placeholder="{...}" />
-                <marker date="1296866701000" expanded="true" signature="1591:3186" placeholder="{...}" />
-                <marker date="1296866701000" expanded="true" signature="2115:3178" placeholder="{...}" />
-                <marker date="1296866701000" expanded="true" signature="2220:3168" placeholder="{...}" />
-                <marker date="1296866701000" expanded="true" signature="2303:3155" placeholder="{...}" />
-                <marker date="1296866701000" expanded="true" signature="2391:3140" placeholder="{...}" />
-                <marker date="1296866701000" expanded="true" signature="2479:3124" placeholder="{...}" />
-                <marker date="1296866701000" expanded="true" signature="3248:3432" placeholder="{...}" />
-                <marker date="1296866701000" expanded="true" signature="3492:3748" placeholder="{...}" />
+                <marker date="1300164351000" expanded="true" signature="356:842" placeholder="{...}" />
+                <marker date="1300164351000" expanded="true" signature="404:583" placeholder="{...}" />
+                <marker date="1300164351000" expanded="true" signature="612:639" placeholder="{...}" />
+                <marker date="1300164351000" expanded="true" signature="657:783" placeholder="{...}" />
+                <marker date="1300164351000" expanded="true" signature="812:839" placeholder="{...}" />
+                <marker date="1300164351000" expanded="true" signature="920:928" placeholder="{...}" />
+                <marker date="1300164351000" expanded="true" signature="920:943" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -83,7 +98,60 @@
       <file leaf-file-name="Foo.as" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mylib/src/blah/Foo.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="27" selection-start="114" selection-end="127" vertical-scroll-proportion="0.0">
+            <state line="10" column="25" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GorillaPatcher.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GorillaPatcher/src/GorillaPatcher.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="32" selection-start="753" selection-end="753" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SwfTag.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GorillaPatcher/src/SwfTag.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="47" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HexDump.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GorillaPatcher/src/HexDump.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="33" selection-start="644" selection-end="644" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Testapp3.mxml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testapp3/src/Testapp3.mxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="73" selection-start="698" selection-end="698" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1300137141000" expanded="true" signature="149:155" placeholder="{...}" />
+                <marker date="1300137141000" expanded="true" signature="149:702" placeholder="{...}" />
+                <marker date="1300137141000" expanded="true" signature="149:702" placeholder="{...}" />
+                <marker date="1300137141000" expanded="true" signature="149:702" placeholder="{...}" />
+                <marker date="1300137141000" expanded="true" signature="381:622" placeholder="{...}" />
+                <marker date="1300137141000" expanded="true" signature="381:622" placeholder="{...}" />
+                <marker date="1300137141000" expanded="true" signature="381:622" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SystemManager.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/flex_sdk_4.1.0.16076/frameworks/projects/framework/src/mx/managers/SystemManager.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2369" column="0" selection-start="68167" selection-end="68167" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -103,14 +171,27 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/Foo.as" />
-        <option value="$PROJECT_DIR$/src/GorillaPatching.mxml" />
-        <option value="$PROJECT_DIR$/myotherlib/src/OtherFoo.as" />
-        <option value="$PROJECT_DIR$/myotherlib/src/Foo.as" />
-        <option value="$PROJECT_DIR$/mylib/src/Foo.as" />
+        <option value="$PROJECT_DIR$/testapp2/src/IPatcher.as" />
+        <option value="$PROJECT_DIR$/testapp2/src/testapp2.html" />
+        <option value="$PROJECT_DIR$/testapp2/src/RevealPrivatesPatcher.as" />
         <option value="$PROJECT_DIR$/testapp/src/Testapp.mxml" />
+        <option value="$PROJECT_DIR$/testapp2/src/GorillaDownloadProgressBar.as" />
+        <option value="$PROJECT_DIR$/GorillaPatcher/src/GorillaDownloadProgressBar.as" />
+        <option value="$PROJECT_DIR$/testapp/src/spark/components/supportClasses/SkinnableComponent.as" />
+        <option value="$PROJECT_DIR$/testapp2/src/supportClasses/SkinnableComponent.as" />
+        <option value="$PROJECT_DIR$/testapp3/src/Testapp3.mxml" />
+        <option value="$PROJECT_DIR$/GorillaPatcher/src/HexDump.as" />
+        <option value="$PROJECT_DIR$/GorillaPatcher/src/SwfTag.as" />
+        <option value="$PROJECT_DIR$/GorillaPatcher/src/IPatcher.as" />
+        <option value="$PROJECT_DIR$/GorillaPatcher/src/GorillaReflectionDeserializer.as" />
+        <option value="$PROJECT_DIR$/GorillaPatcher/src/GorillaPatcher.as" />
+        <option value="$PROJECT_DIR$/GorillaPatcher/src/RevealPrivatesPatcher.as" />
+        <option value="$PROJECT_DIR$/testapp2/src/Testapp2.mxml" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="#JAVA_INTERNAL" />
@@ -145,8 +226,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -161,7 +240,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="testapp" />
+              <option name="myItemId" value="testapp2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -171,7 +250,31 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="testapp" />
+              <option name="myItemId" value="testapp2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GorillaPatching" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GorillaPatcher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GorillaPatching" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GorillaPatcher" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -181,7 +284,9 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Favorites" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,7 +294,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="preferences.editor" />
+    <property name="options.lastSelected" value="preferences.sourceCode" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="project.structure.side.proportion" value="0.22497785" />
@@ -198,18 +303,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="Flex.testapp.html">
-    <configuration default="true" type="PhpRunConfigurationType" factoryName="PHP">
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-        <option name="ValidateXdebugSetup" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testapp2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flex.testapp2.html">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <method>
         <option name="AntTarget" enabled="false" />
@@ -231,6 +334,32 @@
       </method>
     </configuration>
     <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" adl_options="" air_descriptor_path="" air_program_params="" air_publisher_id="" air_root_dir_path="" air_run_mode="AppDescriptor" browser_family="FIREFOX" class_name="" debugger_sdk="Module SDK" html_or_swf_file_path="" launcher_type="OSDefault" main_class_name="" method_name="" module_name="" output_log_level="" package_name="" player_path="/usr/bin/flashplayer" port="0" run_mode="HtmlOrSwfFile" run_trusted="false" scope="Class" socket_policy_port="0" url_to_launch="http://">
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="FlexRunConfigurationType" factoryName="Flex" browser_family="EXPLORER" debugger_sdk="Module SDK" html_or_swf_file_path="" launcher_type="Browser" main_class_name="" module_name="mylib" player_path="/usr/bin/flashplayer" run_mode="HtmlOrSwfFile" run_trusted="false" url_to_launch="http://">
       <method>
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
@@ -271,32 +400,6 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration default="true" type="FlexRunConfigurationType" factoryName="Flex" browser_family="EXPLORER" debugger_sdk="Module SDK" html_or_swf_file_path="" launcher_type="Browser" main_class_name="" module_name="mylib" player_path="/usr/bin/flashplayer" run_mode="HtmlOrSwfFile" run_trusted="false" url_to_launch="http://">
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" />
       <option name="MAIN_CLASS_NAME" />
@@ -315,14 +418,6 @@
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-        <option name="ValidateXdebugSetup" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -351,6 +446,25 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="FtpUpload" enabled="false">
+          <server_id />
+          <server_name />
+        </option>
+        <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="ValidateXdebugSetup" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="false" name="testapp2.html" type="FlexRunConfigurationType" factoryName="Flex" browser_family="EXPLORER" debugger_sdk="Module SDK" html_or_swf_file_path="$PROJECT_DIR$/out/production/testapp2/testapp2.html" launcher_type="Browser" main_class_name="" module_name="mylib" player_path="/usr/bin/flashplayer" run_mode="HtmlOrSwfFile" run_trusted="true" url_to_launch="http://">
+      <RunnerSettings RunnerId="FlexDebugRunner" />
+      <RunnerSettings RunnerId="FlexRunner" />
+      <ConfigurationWrapper RunnerId="FlexDebugRunner" />
+      <ConfigurationWrapper RunnerId="FlexRunner" />
+      <method />
+    </configuration>
     <configuration default="false" name="testapp.html" type="FlexRunConfigurationType" factoryName="Flex" browser_family="EXPLORER" debugger_sdk="flex_sdk_3.5.0.12683 (player 9)" html_or_swf_file_path="$PROJECT_DIR$/out/production/testapp/testapp.html" launcher_type="Browser" main_class_name="" module_name="testapp" player_path="/usr/bin/flashplayer" run_mode="HtmlOrSwfFile" run_trusted="true" url_to_launch="http://">
       <RunnerSettings RunnerId="FlexDebugRunner" />
       <RunnerSettings RunnerId="FlexRunner" />
@@ -358,8 +472,15 @@
       <ConfigurationWrapper RunnerId="FlexRunner" />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Flex.testapp.html" />
+    <configuration default="false" name="testapp3.html" type="FlexRunConfigurationType" factoryName="Flex" browser_family="EXPLORER" debugger_sdk="Module SDK" html_or_swf_file_path="$PROJECT_DIR$/out/production/testapp3/testapp3.html" launcher_type="Browser" main_class_name="" module_name="testapp3" player_path="/usr/bin/flashplayer" run_mode="HtmlOrSwfFile" run_trusted="true" url_to_launch="http://">
+      <RunnerSettings RunnerId="FlexRunner" />
+      <ConfigurationWrapper RunnerId="FlexRunner" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Flex.testapp2.html" />
+      <item index="1" class="java.lang.String" itemvalue="Flex.testapp.html" />
+      <item index="2" class="java.lang.String" itemvalue="Flex.testapp3.html" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -392,28 +513,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1175" extended-state="1" />
-    <editor active="false" />
+    <frame x="-4" y="25" width="1928" height="1178" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4761441" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959914" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34174758" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32957596" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14313534" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27864078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977018" sideWeight="0.5864078" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24208266" sideWeight="0.52385587" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23890968" sideWeight="0.6582524" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -447,47 +568,195 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="flex">
+          <url>file://$PROJECT_DIR$/GorillaPatcher/src/GorillaDownloadProgressBar.as</url>
+          <line>9</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="flex">
+          <url>file://$USER_HOME$/flex_sdk_4.1.0.16076/frameworks/projects/framework/src/mx/managers/SystemManager.as</url>
+          <line>221</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="flex">
+          <url>file://$USER_HOME$/flex_sdk_4.1.0.16076/frameworks/projects/framework/src/mx/managers/SystemManager.as</url>
+          <line>1813</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="flex">
+          <url>file://$USER_HOME$/flex_sdk_4.1.0.16076/frameworks/projects/framework/src/mx/managers/SystemManager.as</url>
+          <line>2369</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="flex">
+          <url>file://$USER_HOME$/flex_sdk_4.1.0.16076/frameworks/projects/framework/src/mx/managers/SystemManager.as</url>
+          <line>2378</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="flex">
+          <url>file://$USER_HOME$/flex_sdk_4.1.0.16076/frameworks/projects/framework/src/mx/managers/SystemManager.as</url>
+          <line>2386</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="flex">
+          <url>file://$USER_HOME$/flex_sdk_4.1.0.16076/frameworks/projects/framework/src/mx/managers/SystemManager.as</url>
+          <line>2534</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="flex">
+          <url>file://$USER_HOME$/flex_sdk_4.1.0.16076/frameworks/projects/framework/src/mx/managers/SystemManager.as</url>
+          <line>2548</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="flex">
+          <url>file://$USER_HOME$/flex_sdk_4.1.0.16076/frameworks/projects/framework/src/mx/managers/SystemManager.as</url>
+          <line>2734</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="flex">
+          <url>file://$USER_HOME$/flex_sdk_4.1.0.16076/frameworks/projects/framework/src/mx/managers/SystemManager.as</url>
+          <line>2524</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="flex">
+          <url>file://$USER_HOME$/flex_sdk_4.1.0.16076/frameworks/projects/framework/src/mx/managers/SystemManager.as</url>
+          <line>2426</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="flex">
+          <url>file://$USER_HOME$/flex_sdk_4.1.0.16076/frameworks/projects/framework/src/mx/managers/SystemManager.as</url>
+          <line>2824</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="flex">
+          <url>file://$USER_HOME$/flex_sdk_4.1.0.16076/frameworks/projects/framework/src/mx/managers/SystemManager.as</url>
+          <line>2838</line>
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/flex_sdk_4.5.0.17689/frameworks/libs/player/10.1/playerglobal.swc!/library.swf">
+    <entry file="file://$USER_HOME$/flex_sdk_4.1.0.16076/frameworks/projects/spark/src/spark/components/supportClasses/SkinnableComponent.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1531" column="25" selection-start="67709" selection-end="67709" vertical-scroll-proportion="0.0" />
+        <state line="631" column="94" selection-start="0" selection-end="33965" vertical-scroll-proportion="0.750501" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/flex_sdk_4.5.0.17689/frameworks/projects/framework/src/mx/managers/SystemManager.as">
+    <entry file="file://$PROJECT_DIR$/testapp2/src/testapp2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="921" column="33" selection-start="26672" selection-end="26672" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/testapp/as3commons-bytecode-0.9.7.swc!/library.swf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3173" column="13" selection-start="169745" selection-end="169745" vertical-scroll-proportion="0.28630707" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mylib/src/blah/Foo.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="27" selection-start="114" selection-end="127" vertical-scroll-proportion="0.0" />
+        <state line="53" column="53" selection-start="2755" selection-end="2755" vertical-scroll-proportion="-22.041666">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testapp/src/Testapp.mxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="24" selection-start="3518" selection-end="3518" vertical-scroll-proportion="0.8858859">
+        <state line="91" column="27" selection-start="3657" selection-end="3657" vertical-scroll-proportion="0.61077845">
           <folding>
-            <marker date="1296866701000" expanded="false" signature="149:1466" placeholder="..." />
-            <marker date="1296866701000" expanded="true" signature="1534:3192" placeholder="{...}" />
-            <marker date="1296866701000" expanded="true" signature="1591:3186" placeholder="{...}" />
-            <marker date="1296866701000" expanded="true" signature="2115:3178" placeholder="{...}" />
-            <marker date="1296866701000" expanded="true" signature="2220:3168" placeholder="{...}" />
-            <marker date="1296866701000" expanded="true" signature="2303:3155" placeholder="{...}" />
-            <marker date="1296866701000" expanded="true" signature="2391:3140" placeholder="{...}" />
-            <marker date="1296866701000" expanded="true" signature="2479:3124" placeholder="{...}" />
-            <marker date="1296866701000" expanded="true" signature="3248:3432" placeholder="{...}" />
-            <marker date="1296866701000" expanded="true" signature="3492:3748" placeholder="{...}" />
+            <marker date="1297993108000" expanded="false" signature="149:1466" placeholder="..." />
+            <marker date="1297993108000" expanded="true" signature="1534:3192" placeholder="{...}" />
+            <marker date="1297993108000" expanded="true" signature="1591:3186" placeholder="{...}" />
+            <marker date="1297993108000" expanded="true" signature="2115:3178" placeholder="{...}" />
+            <marker date="1297993108000" expanded="true" signature="2220:3168" placeholder="{...}" />
+            <marker date="1297993108000" expanded="true" signature="2303:3155" placeholder="{...}" />
+            <marker date="1297993108000" expanded="true" signature="2391:3140" placeholder="{...}" />
+            <marker date="1297993108000" expanded="true" signature="2479:3124" placeholder="{...}" />
+            <marker date="1297993108000" expanded="true" signature="3248:3432" placeholder="{...}" />
+            <marker date="1297993108000" expanded="true" signature="3492:3748" placeholder="{...}" />
+            <marker date="1297993108000" expanded="true" signature="3790:4253" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/flex_sdk_4.1.0.16076/frameworks/libs/player/10.0/playerglobal.swc!/library.swf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="687" column="50" selection-start="29626" selection-end="29626" vertical-scroll-proportion="0.33265924">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GorillaPatcher/src/HexDump.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="33" selection-start="644" selection-end="644" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GorillaPatcher/src/SwfTag.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="47" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/flex_sdk_4.1.0.16076/frameworks/projects/framework/src/mx/managers/SystemManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2369" column="0" selection-start="68167" selection-end="68167" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testapp3/src/Testapp3.mxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="73" selection-start="698" selection-end="698" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1300137141000" expanded="true" signature="149:155" placeholder="{...}" />
+            <marker date="1300137141000" expanded="true" signature="149:702" placeholder="{...}" />
+            <marker date="1300137141000" expanded="true" signature="149:702" placeholder="{...}" />
+            <marker date="1300137141000" expanded="true" signature="149:702" placeholder="{...}" />
+            <marker date="1300137141000" expanded="true" signature="381:622" placeholder="{...}" />
+            <marker date="1300137141000" expanded="true" signature="381:622" placeholder="{...}" />
+            <marker date="1300137141000" expanded="true" signature="381:622" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mylib/src/blah/Foo.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="25" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GorillaPatcher/src/IPatcher.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="35" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/GorillaPatcher/as3commons-bytecode-1.0-RC3.swc!/library.swf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1138" column="25" selection-start="61954" selection-end="61954" vertical-scroll-proportion="0.33272058">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GorillaPatcher/src/GorillaReflectionDeserializer.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="3" selection-start="367" selection-end="367" vertical-scroll-proportion="0.4308797">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GorillaPatcher/src/GorillaPatcher.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="32" selection-start="753" selection-end="753" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GorillaPatcher/src/RevealPrivatesPatcher.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="59" selection-start="2260" selection-end="2260" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testapp2/src/Testapp2.mxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="16" selection-start="985" selection-end="985" vertical-scroll-proportion="0.86153847">
+          <folding>
+            <marker date="1300164351000" expanded="true" signature="356:842" placeholder="{...}" />
+            <marker date="1300164351000" expanded="true" signature="404:583" placeholder="{...}" />
+            <marker date="1300164351000" expanded="true" signature="612:639" placeholder="{...}" />
+            <marker date="1300164351000" expanded="true" signature="657:783" placeholder="{...}" />
+            <marker date="1300164351000" expanded="true" signature="812:839" placeholder="{...}" />
+            <marker date="1300164351000" expanded="true" signature="920:928" placeholder="{...}" />
+            <marker date="1300164351000" expanded="true" signature="920:943" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -505,6 +774,11 @@
               </list>
             </option>
           </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions />
         </settings>
       </state>
       <state key="FacetStructureConfigurable.UI">
@@ -533,11 +807,11 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>flex_sdk_4.5.0.19786 (player 10.2)</last-edited>
+          <last-edited>1.6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.22497785" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -545,7 +819,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>testapp</last-edited>
+          <last-edited>GorillaPatcher</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -564,6 +838,11 @@
               </list>
             </option>
           </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions />
         </settings>
       </state>
     </states>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.1.0" build="16076" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="_f80864a3f049b417d006b32ee2cb302d2736f346885ded93b90cb989d183c1ff_flash_display_Sprite" mod="1300118519695" signatureChecksum="4223367653" >
+        <def id="_f80864a3f049b417d006b32ee2cb302d2736f346885ded93b90cb989d183c1ff_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="blah/Foo" mod="1296852280000" signatureChecksum="1654920532" >
+        <def id="blah:Foo" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="88ed228ea678fa6a890cf5dd0d6b05109520243bb7781373bb809bd7c39cde21"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>

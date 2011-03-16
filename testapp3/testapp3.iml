@@ -2,8 +2,8 @@
 <module type="Flex" version="4">
   <component name="Flex.Build.Configuration">
     <option name="DO_BUILD" value="true" />
-    <option name="OUTPUT_TYPE" value="Library" />
-    <option name="OUTPUT_FILE_NAME" value="mylib.swc" />
+    <option name="MAIN_CLASS" value="Testapp3" />
+    <option name="OUTPUT_FILE_NAME" value="Testapp3.swf" />
     <option name="TARGET_PLAYER_VERSION" value="10.0.0" />
     <option name="VERSION" value="3" />
   </component>
